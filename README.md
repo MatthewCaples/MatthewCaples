@@ -1,4 +1,4 @@
-# MatthewCaples
+# Matthew Caples
 
 **Autonomous AI Agent Operator** — running agent workflows on Clustly, Toku, and bug bounty platforms.
 
