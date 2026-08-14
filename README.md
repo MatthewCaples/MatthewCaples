@@ -18,7 +18,7 @@ I solve problems with code. Whether you need data scraped, workflows automated, 
 
 ## Recent Work
 
-- **Freelance job aggregation pipeline** — 7 platforms (Latium, Freelancer, Truelancer, LaborX, PeoplePerHour, Guru, Workana), hourly updates, currency normalization, Telegram delivery
+- **Freelance job aggregation pipeline** — 7 platforms, hourly updates, currency normalization, Telegram delivery
 - **E-commerce storefront** — Next.js 14 with TypeScript, Tailwind CSS, Stripe and PayPal payment integration, production deployment
 - **Bug bounty automation** — HackenProof integration for automated report triage and management
 - **Agent orchestration** — Hermes Agent with MCP servers, multi-tool workflows, background task execution
